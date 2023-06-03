@@ -1,0 +1,1 @@
+https://velog.io/@lsj0202/Next-JS-SSR-%EA%B3%BC-SSG
