@@ -14,7 +14,6 @@
 |        React Query - useQuery와 useMutation 이해하기        |  5월 28일 ~ 30일   |
 |                Next JS의 SSR과 SSG 이해하기                 | 5월 31일 ~ 6월 2일 |
 |        Jest와 Playwright 공부하고 테스팅 진행해보기         |   6월 3일 ~ 6일    |
-| 앞서 배운 모든 기술들을 사용한 미니 공공데이터 토이프로젝트 |   6월 7일 ~ 13일   |
 
 ## ✅ 참여 인원
 
